@@ -1,0 +1,17 @@
+How I figured out structure arrays => https://stackoverflow.com/questions/1814463/returning-a-structure-array-using-pointers
+
+Better input method taken from class notes
+
+printf specifiers => https://www.tutorialspoint.com/c_standard_library/c_function_printf.htm
+
+Global variables - I used for heap process array address => https://www.tutorialspoint.com/cprogramming/c_scope_rules.htm
+
+Simple pointer stuff I should have known [difference betw. char s[] & char *s] => https://www.geeksforgeeks.org/whats-difference-between-char-s-and-char-s-in-c/
+
+program termination in c => https://forgetcode.com/c/977-exit-terminate-the-program
+
+clearing console in c => https://www.geeksforgeeks.org/clear-console-c-language/
+
+Case insensitive input => https://www.ibm.com/support/knowledgecenter/en/ssw_ibm_i_72/rtref/strcasecmp.htm
+
+Validating malloc / realloc (and related things) => https://www.geeksforgeeks.org/dynamic-memory-allocation-in-c-using-malloc-calloc-free-and-realloc/

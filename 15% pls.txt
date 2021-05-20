@@ -1,0 +1,11 @@
+In terms of what I believe I have done to justify additional feature / functionality marks, there isn't all that much.
+
+- I allow the user to input case insensitive commands as valid
+- Frequent use of pointers for passing, editing, and reading process variables - less memory allocation over time
+- Use of global variables (albeit possibly to ill effect)
+- Attempt to clear the heap memory allocated during runtime on exit
+- Program structure separated into source & header files - grouped by context & functionality
+- use of malloc & realloc (as well as validating result & handling failure [i hope])
+
+
+I was unable to implement STCF in time, unfortunately.
